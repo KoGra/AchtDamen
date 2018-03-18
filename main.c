@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// solves the problem of 8 queens
+
 struct achtdamen
 {
 	int sp[8];
