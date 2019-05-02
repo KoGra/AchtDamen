@@ -3,7 +3,7 @@
 
 
 // solves the problem of 8 queens
-//
+// Konrad Grampp
 
 struct achtdamen
 {
